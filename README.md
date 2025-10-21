@@ -11,12 +11,12 @@ Mariya Sharli P
 A simple web-based Product Management System built using Spring MVC, Thymeleaf, and Lombok.
 This application allows users to Add, View, Update, and Delete products with an interactive UI.
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations for managing product details in a web application.
 It follows the Model-View-Controller (MVC) architecture using Spring Framework and integrates Thymeleaf templates for the frontend UI.
 
-✨ Features
+### ✨ Features
 
 ➕ Add New Product — Enter details like name, category, and price.
 
@@ -29,7 +29,7 @@ It follows the Model-View-Controller (MVC) architecture using Spring Framework a
 💅 User-Friendly Frontend — Designed with Thymeleaf and basic HTML/CSS for better user experience.
 
 
-🧠 Concepts Covered
+### 🧠 Concepts Covered
 
 MVC Architecture in Spring
 
@@ -44,7 +44,7 @@ Lombok annotations (@Data, @NoArgsConstructor, @AllArgsConstructor)
 Form handling and validation
 
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 Add product image upload functionality
 
