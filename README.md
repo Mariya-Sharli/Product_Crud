@@ -2,6 +2,10 @@
 
 🛍️ Product CRUD Application
 
+Mariya Sharli P
+💼 Java Backend Developer
+🔗 https://www.linkedin.com/in/mariya-sharli-p
+
 A simple web-based Product Management System built using Spring MVC, Thymeleaf, and Lombok.
 This application allows users to Add, View, Update, and Delete products with an interactive UI.
 
