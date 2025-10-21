@@ -1,9 +1,11 @@
 # Product_Crud
-
 🛍️ Product CRUD Application
 
+## 👩‍💻 Author
 Mariya Sharli P
+
 💼 Java Backend Developer
+
 🔗 https://www.linkedin.com/in/mariya-sharli-p
 
 A simple web-based Product Management System built using Spring MVC, Thymeleaf, and Lombok.
